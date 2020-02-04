@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: monospace;
+    font-size: 2em;
+}
+
+container {
+    width: 1080px;
+    height: 480px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 1080px;
+}
